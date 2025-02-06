@@ -149,6 +149,7 @@ tensorboard==2.18.0
 tensorboard-data-server==0.7.2
 tensorflow==2.18.0
 tensorflow-io-gcs-filesystem==0.31.0
+pip --upgrade
 tensorflow_intel==2.18.0
 termcolor==1.1.0
 tf_keras==2.18.0
